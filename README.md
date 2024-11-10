@@ -1,4 +1,5 @@
 # Sequential Pattern Mining
+Link demo: https://datamining-shopdemo.streamlit.app/
 ## Group 8
 | Họ và tên       | MSSV       | Công việc       |Khối lượng công việc(%)| Mức độ hoàn thành
 |----------------|----------------|----------------|----------------|----------------|
