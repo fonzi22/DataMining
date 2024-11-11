@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🛍️ Demo Khai thác Mẫu Tuần tự với PrefixSpan")
+st.title("🛍️ Demo Khai thác Mẫu Tuần tự")
 st.markdown("---")
 
 # Khởi tạo session state
